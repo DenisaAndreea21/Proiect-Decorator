@@ -59,6 +59,7 @@ public class Demo extends JFrame implements ActionListener,MouseListener  {
 
 	public static void main(String[] args) {
 		System.out.println("Hello\n");
+		System.out.println("Alt commit\n");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
