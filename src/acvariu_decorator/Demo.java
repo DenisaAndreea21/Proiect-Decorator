@@ -58,6 +58,7 @@ public class Demo extends JFrame implements ActionListener,MouseListener  {
 	Acvariu ac = new AcvariuImpl();
 
 	public static void main(String[] args) {
+		System.out.println("Hello\n");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
