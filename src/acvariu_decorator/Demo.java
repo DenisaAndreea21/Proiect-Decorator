@@ -61,6 +61,7 @@ public class Demo extends JFrame implements ActionListener,MouseListener  {
 		System.out.println("Hello\n");
 		System.out.println("Alt commit\n");
 		System.out.println("commit 2\n");
+		System.out.println("Numele proiectul: Design Pattern - Decorator\n");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
