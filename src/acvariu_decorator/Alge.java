@@ -8,6 +8,7 @@ public class Alge extends AcvariuDecor{
 		return super.adauga_in_acvariu()+adauga_Alge();
 	}
 	private String adauga_Alge() {
-		return "Alge adaugate \n";
+		return "Alge adaugate aici\n";
 	}
+	
 }
