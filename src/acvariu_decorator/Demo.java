@@ -56,7 +56,6 @@ public class Demo extends JFrame implements ActionListener,MouseListener  {
 	 */
 	//initializare acvariu
 	Acvariu ac = new AcvariuImpl();
-
 	public static void main(String[] args) {
 		System.out.println("Hello\n");
 		System.out.println("Alt commit\n");
